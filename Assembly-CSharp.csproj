@@ -60,12 +60,13 @@
     <Analyzer Include="C:\Program Files\Unity\Hub\Editor\2022.3.15f1\Editor\Data\Tools\Unity.SourceGenerators\Unity.Properties.SourceGenerator.dll" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\PlayerController.cs" />
     <Compile Include="Assets\ShinobiInteraction.cs" />
     <Compile Include="Assets\SamuraiAnim.cs" />
     <Compile Include="Assets\ShinobiWalking.cs" />
+    <Compile Include="Assets\PlayerMovement.cs" />
     <Compile Include="Assets\PlayerAttack.cs" />
     <Compile Include="Assets\Trigger.cs" />
-    <Compile Include="Assets\PlayerMovements.cs" />
     <Compile Include="Assets\BlueLapse.cs" />
     <Compile Include="Assets\limitlessKeybinds.cs" />
   </ItemGroup>

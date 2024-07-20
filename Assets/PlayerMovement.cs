@@ -7,7 +7,7 @@ public class PlayerMovement : PlayerController
 
     float horizontalMove = 0f;
     public float runSpeed = 10;
-    public float jumpForce = 10f;
+    public float jumpForce = 10;
     public Rigidbody2D player;
 
     private void Update()
